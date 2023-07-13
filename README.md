@@ -1,2 +1,2 @@
-# funcdatastructure
-Skew bionomial heap from very cool the book Chris Okasaki "Purely Functional Data Structures"
+# Skew bionimal heap implementation
+Skew bionomial heap from very cool the book of Chris Okasaki "Purely Functional Data Structures"
