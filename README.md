@@ -1,2 +1,2 @@
-# Skew bionimal heap implementation
-Skew bionomial heap from very cool the book of Chris Okasaki "Purely Functional Data Structures"
+# Skew binomial heap implementation
+Skew binomial heap from the very cool book of Chris Okasaki "Purely Functional Data Structures"
